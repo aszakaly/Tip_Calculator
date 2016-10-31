@@ -1,5 +1,5 @@
 /*Custom function*/
-function calculateTip () {
+function calculateTip() {
     /*Get data into variables*/
     var billAmount = document.getElementById("billAmount").value;
     var serviceQuality = document.getElementById("serviceQuality").value;
